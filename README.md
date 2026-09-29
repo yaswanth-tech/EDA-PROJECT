@@ -237,4 +237,16 @@ Data-Cleaning-EDA/
 3. Run the cells sequentially.
 4. Perform data cleaning.
 5. Verify the cleaned dataset.
-6.
+6.Perform EDA and visualization.
+
+✅ Conclusion
+
+This project demonstrates the basic process of cleaning and preparing real-world data for analysis.
+
+Missing values, inconsistent categorical values, duplicate records, and formatting problems are identified and handled using Python and Pandas. The cleaned dataset can then be used for further statistical analysis, visualization, and machine learning.
+
+👨‍💻 Author
+
+Yaswanth Rajana
+
+B.Tech – Computer Science and Engineering
